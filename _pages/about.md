@@ -6,20 +6,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 Contact
 ------
-Campus Wilhelminenhof
+**Address:**    
+Campus Wilhelminenhof  
+WH Building C , Room 644  
+Wilhelminenhofstraße 75A  
+12459 Berlin  
 
-WH Gebäude C , 644
-
-Wilhelminenhofstraße 75A
-
-12459 Berlin
-
-
-phone: +49 30 5019-2554
-
-email: Sebastian.Knorr@HTW-Berlin.de
+**phone:** +49 30 5019-2554  
+**email:** Sebastian.Knorr@HTW-Berlin.de
 
 Short bio
 ------
