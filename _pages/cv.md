@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+------
 * Ph.D in Computer Vision, Technical University of Berlin, 2008
 * Dipl.-Ing. in Electrical Engineering, Technical University of Berlin, 2002
 
