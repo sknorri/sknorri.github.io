@@ -19,6 +19,7 @@ Wilhelminenhofstraße 75A
 
 
 phone: +49 30 5019-2554
+
 email: Sebastian.Knorr@HTW-Berlin.de
 
 Short bio
