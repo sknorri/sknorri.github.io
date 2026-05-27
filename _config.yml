@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0000-0001-9745-8605"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Sebastian-Knorr"
   scopus           : # URL
   zotero           : # URL
