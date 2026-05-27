@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -15,7 +15,7 @@ Education
 * Dipl.-Ing. in Electrical Engineering, Technical University of Berlin, 2002
 
 Work experience
-======
+------
 * Since 2024: Professor for Visual Computing
   * HTW Berlin, Germany
   * Duties includes: Research & teaching, supervision of PhD students
@@ -53,7 +53,7 @@ Work experience
   * Duties included: PhD thesis and teaching
 
 Awards
-======
+------
 * 2024: Outstanding Editorial Board Member Award for IEEE Trans. on Image Processing
 * 2024: Runner-Up Best Full Paper Award @ ACM SIGGRAPH Conference on Visual Media Production
 * 2021: Outstanding Associate Editor Award for IEEE Transactions on Multimedia
@@ -67,7 +67,7 @@ Awards
 * 2008: Winner of the competition „Mit Multimedia erfolgreich starten“ for the imcube labs GmbH, and winner of the exceptional prize „Multimedia in Consumer Electronics“ sponsored by LOEWE AG.
 
 Memberships and voluntary work
-======
+------
 * since 2007: Institute of Electrical and Electronic Engineers, Inc. (IEEE)
 * since 2008: German Society of Television- and Cinema Technology (FKTG e.V.)
 * since 2011: Association for Computing Machinery (ACM)
