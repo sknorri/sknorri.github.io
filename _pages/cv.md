@@ -22,7 +22,7 @@ Work experience
 
 * 2020 - 2024: Professor for Image processing and Media Technology
   * EAH Jena, Germany
-  * Duties includes: Research & teaching, supervision of PhD students
+  * Duties included: Research & teaching, supervision of PhD students
 
 * 2018 - 2020: Senior Research Fellow and Lecturer
   * Technical University of Berlin, Germany
