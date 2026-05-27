@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Fundamentals of Digital Media"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+permalink: /teaching/GDM
+venue: "HTW Berlin, "
+date: 2026
 location: "City, Country"
 ---
 
