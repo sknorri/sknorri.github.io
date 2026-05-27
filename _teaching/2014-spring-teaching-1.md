@@ -2,7 +2,7 @@
 title: "Fundamentals of Digital Media"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/GDM
+permalink: /teaching/2014-spring-teaching-1
 venue: "HTW Berlin, "
 date: 2026
 location: "City, Country"
