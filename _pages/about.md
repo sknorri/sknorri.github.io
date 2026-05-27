@@ -1,14 +1,10 @@
 ---
 permalink: /
-title: "About me"
+title: "Sebastian Knorr"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Dr. Sebastian Knorr is full-professor for visual computing at the HTW Berlin. From 2020 to 2024, he was professor at the Ernst-Abbe University of Applied Sciences Jena. Between 2017 and 2020, he was Senior Research Scientist and Lecturer within the Communication Systems Group at TU Berlin and Senior Research Scientist within the V-SENSE project at Trinity College Dublin. Between 2009 and 2016, he was the Managing Director of imcube labs GmbH, Germany and General Manager of Beijing imcube Technologies Co., Ltd.. Besides the management of both companies, he also worked on 3D TV, cinema and giant screen projects as Post-Conversion Stereographer and Stereo Producer. Between 2002 and 2009, Dr. Knorr acted as project manager and senior researcher in the Communication Systems Lab at Technische Universität Berlin, Germany. During this time he was involved in several European Networks of Excellence, e.g. VISNET and 3DTV.  In 2007 Dr. Knorr invented the process of automatic 2D to 3D image conversion with highly advanced computer vision technology. He received the Dr.-Ing. degree (Ph.D.) with distinction in 2008. His interests as scientists are in the field of computer vision, 3D image processing and immersive imaging technologies, in neural rendering and Gaussian splatting.
-
-Dr. Knorr is a senior member of the Institute of Electrical and Electronics Engineers (IEEE), member of the Association for Computing Machinery (ACM)  and member of the German Society of Television- and Cinema Technology (FKTG e.V.). In 2014, he was the General Chair and Technical Program Chair of the 3Tec – 3D Quality and Technology Summit in Beijing.  Dr. Knorr received the German Multimedia Business Award of the Federal Ministry of Economics and Technology in 2008, and was awarded by the initiative “Germany-Land of Ideas” which is sponsored by the German government, commerce and industry in 2009, respectively. In 2012, he received the Scott Helt Memorial Award for the best paper published in the IEEE Transactions on Broadcasting. He also received the Lumiére Award from the Advanced Imaging Society (LA, Hollywood) in 2018.
-
-Dr. Knorr was Associate Editor of the IEEE Trans. on Multimedia and of the IEEE Trans. on Image Processing, and he is currently Senior Area Editor of the IEEE Trans. on Image Processing. He frequently serves as reviewer for conferences and journals like ACM Siggraph, the Transaction on Image Processing (IEEE), the Transaction on Multimedia (IEEE), the Journal of Selected Topics in Signal Processing (IEEE), the Transactions on Broadcasting (IEEE), the Journal of Visual Communication and Image Representation (Elsevier), and Signal Processing: Image Communication (Elsevier).
+Dr. Sebastian Knorr is full-professor for visual computing at the HTW Berlin. From 2020 to 2024, he was professor at the Ernst-Abbe University of Applied Sciences Jena. His interests as scientists are in the field of computer vision, 3D image processing and immersive imaging technologies, in neural rendering and Gaussian splatting.
