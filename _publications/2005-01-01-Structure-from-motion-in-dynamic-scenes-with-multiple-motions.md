@@ -1,0 +1,9 @@
+---
+title: "Structure from motion in dynamic scenes with multiple motions"
+collection: publications
+permalink: /publication/2005-01-01-Structure-from-motion-in-dynamic-scenes-with-multiple-motions
+date: 2005-01-01
+venue: 'In the proceedings of 2nd Workshop on Immersive Communication and Broadcast Systems'
+citation: ' Engin Tola,  Sebastian Knorr,  Evren .Imre,  Aydin Alatan,  Thomas Sikora, &quot;Structure from motion in dynamic scenes with multiple motions.&quot; In the proceedings of 2nd Workshop on Immersive Communication and Broadcast Systems, 2005.'
+---
+Use [Google Scholar](https://scholar.google.com/scholar?q=Structure+from+motion+in+dynamic+scenes+with+multiple+motions){:target="_blank"} for full citation
