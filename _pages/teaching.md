@@ -1,10 +1,6 @@
 ---
-layout: archive
-title: "Curriculum Vitae"
-permalink: /Teaching/
-author_profile: true
-redirect_from:
-  - /resume
+permalink: /teaching/
+title: "Teaching"
 ---
 
 {% include base_path %}
