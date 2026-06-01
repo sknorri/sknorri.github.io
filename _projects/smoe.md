@@ -2,7 +2,7 @@
 title: "Steered-Mixture-of-Experts (SMoE)"
 layout: single-portfolio
 excerpt: "<img src='/images/3DGS.png' alt=''>"
-collection: research
+collection: projects
 order_number: 1
 header: 
 og_image: "3DGS.png"
