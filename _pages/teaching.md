@@ -5,21 +5,21 @@ title: "Teaching"
 
 B.Sc. in International Media Informatics (HTW Berlin)
 ------
-* **Fundamentals in Digital Media**
+**Fundamentals in Digital Media**
   
 | Semester:  | summer/winter |
 | ----------- | ----------- |
 | Lecture:   | 4 SWS         |
 | Exercises: | 2 SWS         |
 
-* **Image Analysis**
+**Image Analysis**
   
 | Semester:  | winter |
 | ----------- | ----------- |
 | Lecture:   | 2 SWS         |
 | Exercises: | 2 SWS         |
 
-* **Visual Computing: Machine Learning**
+**Visual Computing: Machine Learning**
   
 | Semester:  | summer |
 | ----------- | ----------- |
@@ -28,13 +28,13 @@ B.Sc. in International Media Informatics (HTW Berlin)
 
 M.Sc. in International Media Informatics (HTW Berlin)
 ------
-* **Computer Vision**
+**Computer Vision**
   
 | Semester:  | winter |
 | ----------- | ----------- |
 | Lecture/exercises:   | 3 SWS |
 
-* **Immersive Imaging Technologies**
+**Immersive Imaging Technologies**
   
 | Semester:  | summer |
 | ----------- | ----------- |
