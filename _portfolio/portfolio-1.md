@@ -4,6 +4,8 @@ excerpt: "Steered Mixtures-of-Experts (SMoE) is a regression framework for model
 collection: portfolio
 ---
 
+![3D SMoE Splatting](/images/3DGS.png "3D SMoE Splatting")
+
 This PhD project investigates an explicit regression model aimed at reducing the number of computational primitives in both 2D image and 3D radiance field domains. The scope of this work includes developing methods to reduce computational primitives, investigating explicit regression for transparency and scalability, and evaluating these methods across 2D image and 3D radiance field domains. This thesis is subject to specific delimitations. First, traditional compression techniques, such as quantization, entropy coding, or transform-based representations, are excluded. These methods are useful for reducing memory either during training or after, but they do not address the structural modeling inefficiencies or change the main architecture. The focus of this thesis is to evaluate the effectiveness of the redesigned architecture. Second, implicit neural representations and deep networks, such as NeRF variants, transformers, diffusion models, or convolutional autoencoders, are not used as baselines or design foundations. These architectures often hide the modeling structure behind layers of nonlinearity and offer limited control over parameter allocation. This thesis instead emphasizes transparent, interpretable models with modular behavior. Third, the thesis works with 3D radiance fields. It omits alternative 3D representations such as point clouds, meshes, ray tracing, or light-field rendering. These modalities introduce separate concerns and would weaken the focus on the architecture and regression method.
 
 ## Articles
