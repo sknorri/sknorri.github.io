@@ -14,12 +14,12 @@ This PhD project investigates an explicit regression model aimed at reducing the
 
 ## Articles
 
-**3D SMoE Splatting for Edge-aware Realtime Radiance Field Rendering**
-Yi-Hsin Li,  Thomas Sikora,  Sebastian Knorr,  Mårten Sjöström 
-In the proceedings of Proceedings of the SIGGRAPH Asia 2025 Conference Papers, 2025.
-<https://doi.org/10.1145/3757377.3763899>
+**3D SMoE Splatting for Edge-aware Realtime Radiance Field Rendering**  
+Yi-Hsin Li, Thomas Sikora, Sebastian Knorr, Mårten Sjöström  
+In the proceedings of Proceedings of the SIGGRAPH Asia 2025 Conference Papers, 2025.  
+<https://doi.org/10.1145/3757377.3763899>  
 
-**Adaptive Segmentation-Based Initialization for Steered Mixture of Experts Image Regression**
-Yi-Hsin Li,  Sebastian Knorr,  Marten Sjostrom,  Thomas Sikora
-IEEE Transactions on Multimedia, 2025.
-<https://ieeexplore.ieee.org/document/11194262>
+**Adaptive Segmentation-Based Initialization for Steered Mixture of Experts Image Regression**  
+Yi-Hsin Li, Sebastian Knorr, Marten Sjostrom, Thomas Sikora  
+IEEE Transactions on Multimedia, 2025.  
+<https://ieeexplore.ieee.org/document/11194262>  
