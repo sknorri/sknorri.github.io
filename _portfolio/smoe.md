@@ -19,3 +19,9 @@ In the proceedings of Proceedings of the SIGGRAPH Asia 2025 Conference Papers, 2
 Yi-Hsin Li, Sebastian Knorr, Marten Sjostrom, Thomas Sikora  
 IEEE Transactions on Multimedia, 2025.  
 <https://ieeexplore.ieee.org/document/11194262>  
+
+**Segmentation-based Initialization for Steered Mixture of Experts**  
+Yi-Hsin Li,  Maarten Sjöström,  Sebastian Knorr,  Thomas Sikora  
+In the proceedings of IEEE International Conference on Visual Communications and Image Processing (VCIP), 2023.  
+<https://ieeexplore.ieee.org/document/10402643>
+
