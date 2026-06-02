@@ -1,5 +1,5 @@
 ---
-title: "Steered-Mixture-of-Experts (SMoE)"
+title: "Real-Time Light Field Reconstruction and Neural Rendering"
 excerpt: "The overall aim of this PhD project is to advance the field of immersive telepresence by developing and evaluating novel, learning based methods for real-time immersive view synthesis from a single image.<br/><img src='/images/Teaser_PVSNet.png'>"
 collection: portfolio
 ---
