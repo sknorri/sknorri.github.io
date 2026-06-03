@@ -13,7 +13,17 @@ In this work, we analyzed how end-users view 360° video in the presence of dire
 
 ## Articles
 
-**Geometry-aware video inpainting for joint headset occlusion removal and face reconstruction in social extended reality**  
-Fatemeh Ghorbani,  Karen Eguiazarian,  Sebastian Knorr  
-SPIE Journal of Electronic Imaging, 2025.  
-<https://doi.org/10.1117/1.JEI.34.5.051003>  
+**Director's Cut: a combined dataset for visual attention analysis in cinematic VR content**
+Sebastian Knorr,  Cagri Ozcinar,  Colm O. Fearghail,  Aljosa Smolic  
+In the proceedings of the 15th ACM SIGGRAPH European Conference on Visual Media Production, 2018.  
+<https://dl.acm.org/doi/10.1145/3278471.3278472>  
+
+**Director’s Cut - analysis of aspects of interactive storytelling for vr films** 
+Colm O. Fearghail,  Cagri Ozcinar,  Sebastian Knorr,  Aljosa Smolic  
+In the proceedings of International Conference on Interactive Digital Storytelling, 2018.  
+<https://dl.acm.org/doi/10.1007/978-3-030-04028-4_34>  
+
+**Director’s Cut - analysis of VR film cuts for interactive storytelling**
+Colm O. Fearghail,  Cagri Ozcinar,  Sebastian Knorr,  Aljosa Smolic  
+In the proceedings of IEEE International Conference on 3D Immersion (IC3D), 2018.  
+<https://ieeexplore.ieee.org/document/8657901/>  
