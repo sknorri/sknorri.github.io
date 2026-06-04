@@ -28,4 +28,7 @@ main:
     
   # - title: "CV"
   #  url: /cv-json/
+
+  - title: "Press"
+    url: /press/
     
