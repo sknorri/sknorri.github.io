@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 <div style="display: flex; gap: 20px;">
     <div style="flex: 1;">
         <h3>Contact</h3>
