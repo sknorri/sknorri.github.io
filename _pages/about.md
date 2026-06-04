@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Contact
-------
 <div style="display: flex; gap: 20px;">
     <div style="flex: 1;">
         <h3>Contact</h3>
@@ -16,23 +14,17 @@ Contact
 WH Building C , Room 644  <br>
 Wilhelminenhofstraße 75A  <br>
 12459 Berlin  <br>
-
-phone: +49 30 5019-2554  <br>
-email: Sebastian.Knorr@HTW-Berlin.de</p>
+<br>
+<strong>phone</strong>: +49 30 5019-2554  <br>
+<strong>email</strong>: Sebastian.Knorr@HTW-Berlin.de</p>
     </div>
     <div style="flex: 1;">
         <h3></h3>
         <p><iframe width="560" height="315" src="https://www.youtube.com/embed/imoSxApy4Y8?si=ToasQl7KcjssJb-v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
     </div>
 </div>
-**Address:**    
-Campus Wilhelminenhof  
-WH Building C , Room 644  
-Wilhelminenhofstraße 75A  
-12459 Berlin  
 
-**phone:** +49 30 5019-2554  
-**email:** Sebastian.Knorr@HTW-Berlin.de
+
 
 Short bio
 ------
