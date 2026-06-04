@@ -15,11 +15,11 @@ Screen Daily – 03/2013
 [Jung, locker, erfinderisch](https://www.manager-magazin.de/magazin/artikel/a-784090.html)  
 Manager Magazin – 08/2011  
 
-[German scientists develop advanced 2D-to-3D conversion software for films](https://www.dvd-and-beyond.com/display-article.php?article=1474)  
-DVD-Intelligence – 03/2011   
-
 [The challenges of 2D-to-3D conversion](https://www.dvd-and-beyond.com/video/?id=117)  
-2nd Blu-ray Disc Academy 3D conference, Hamburg, 3-4 May 2011  
+DVD and beyond - 05/2011  
+
+[German scientists develop advanced 2D-to-3D conversion software for films](https://www.dvd-and-beyond.com/display-article.php?article=1474)  
+DVD and beyond – 03/2011   
 
 [Nachbearbeitet: Filme mit mehr Tiefe](https://www.tagesspiegel.de/wissen/filme-mit-mehr-tiefe-6502987.html)  
 Tagesspiegel - 03/2010
