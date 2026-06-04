@@ -8,7 +8,7 @@ redirect_from:
 ---
 <div style="display: flex; gap: 20px;">
     <div style="flex: 1;">
-        <h3>Contact</h3>
+        <h2>Contact</h2>
         <p>Campus Wilhelminenhof  <br>
 WH Building C , Room 644  <br>
 Wilhelminenhofstraße 75A  <br>
@@ -18,7 +18,6 @@ Wilhelminenhofstraße 75A  <br>
 <strong>email</strong>: Sebastian.Knorr@HTW-Berlin.de</p>
     </div>
     <div style="flex: 1;">
-        <h3></h3>
         <p><iframe width="560" height="315" src="https://www.youtube.com/embed/imoSxApy4Y8?si=ToasQl7KcjssJb-v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
     </div>
 </div>
