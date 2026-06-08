@@ -2,18 +2,6 @@
 permalink: /awards/
 title: "Awards"
 ---
-**Fundamentals in Digital Media**
-<style>
-table th:first-of-type {
-    width: 10%;
-}
-table th:nth-of-type(2) {
-    width: 60%;
-}
-table th:nth-of-type(2) {
-    width: 30%;
-}
-</style>
 | Year| Award|  |
 | :---| :---| :---|
 |2024| Outstanding Editorial Board Member Award for IEEE Trans. on Image Processing| <img src="/images/IEEE_TIP_2024.png" width="200"/> |
