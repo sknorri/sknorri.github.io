@@ -6,7 +6,15 @@ title: "Teaching"
 B.Sc. in International Media Informatics (HTW Berlin)
 ------
 **Fundamentals in Digital Media**
-  
+<style>
+table th:first-of-type {
+    width: 60%;
+}
+table th:nth-of-type(2) {
+    width: 40%;
+}
+
+</style>
 | Semester:| summer/winter|
 | :---| :---|
 | Lecture:| 4 SWS|
