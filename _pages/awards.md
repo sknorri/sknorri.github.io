@@ -8,9 +8,11 @@ table th:first-of-type {
     width: 10%;
 }
 table th:nth-of-type(2) {
-    width: 90%;
+    width: 60%;
 }
-
+table th:nth-of-type(2) {
+    width: 30%;
+}
 </style>
 | Year| Award|  |
 | :---| :---| :---|
