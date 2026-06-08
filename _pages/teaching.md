@@ -8,10 +8,10 @@ B.Sc. in International Media Informatics (HTW Berlin)
 **Fundamentals in Digital Media**
 <style>
 table th:first-of-type {
-    width: 60%;
+    width: 20%;
 }
 table th:nth-of-type(2) {
-    width: 40%;
+    width: 20%;
 }
 
 </style>
