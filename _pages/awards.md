@@ -12,7 +12,7 @@ table th:nth-of-type(2) {
 }
 
 </style>
-| Year:| Award|
+| Year| Award|
 | :---| :---|
 |2024| Outstanding Editorial Board Member Award for IEEE Trans. on Image Processing| 
 |2024| Runner-Up Best Full Paper Award @ ACM SIGGRAPH Conference on Visual Media Production|
