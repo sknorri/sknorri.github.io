@@ -2,7 +2,7 @@
 title: "A Study of Resolution aware Video Compression for Remote Photoplethysmography"
 collection: publications
 category: conferences
-permalink: /publication/26-01-01-A-Study-of-Resolution-aware-Video-Compression-for-Remote-Photoplethysmography
+permalink: /publication/2026-01-01-A-Study-of-Resolution-aware-Video-Compression-for-Remote-Photoplethysmography
 date: 2026-01-01
 venue: 'In the proceedings of the IEEE International Conference on Image Processing'
 authors: ' Ruben Hermann Felix Saitz, Jonas Quinque, Burkart Voß, Johannes Franz Trabert, Sebastian Knorr'
