@@ -10,10 +10,10 @@ Building on the foundations of spherical light field reconstruction and renderin
 
 ## Articles
 
-**Real-time position-aware view synthesis from single-view input**
-Manu Gond, Emin Zerman, Sebastian Knorr, Mårten Sjöström
-Signal Processing: Image Communication, 2026
-<https://doi.org/10.1016/j.image.2026.117699>
+**Real-time position-aware view synthesis from single-view input**  
+Manu Gond, Emin Zerman, Sebastian Knorr, Mårten Sjöström  
+Signal Processing: Image Communication, 2026  
+<https://doi.org/10.1016/j.image.2026.117699>  
 
 **PVSDNet: Joint Depth Prediction and View Synthesis Via Shared Latent Spaces in Real-Time**  
 Manu Gond,  Emin Zerman,  Sebastian Knorr,  Mårten Sjöström  
